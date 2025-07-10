@@ -37,36 +37,6 @@ An e-commerce platform built to connect Nepali K-pop fans with official Korean m
 
 ---
 
-## Project Structure
-/Arirang
-│
-├── Admin/
-├── Banners/
-├── Event/
-├── Footer/
-├── Header/
-├── Orders/
-├── Products/
-├── Reviews/
-├── Cart/
-├── Connect/
-├── Homepage/
-├── Register/
-├── Review/
-│
-├── Img/
-│ ├── Bannerimg/
-│ ├── Eventimg/
-│ └── Productimg/
-│
-├── CSS/
-│ └── styles.css
-│
-├── JS/
-│ └── script.js
-
----
-
 ## UI/UX Design
 
 - **Primary Color:** `#73c6b6` (Soft Teal)
@@ -89,15 +59,15 @@ An e-commerce platform built to connect Nepali K-pop fans with official Korean m
 
 ## Completed Milestones
 
-- ✅ Frontend and backend integration
-- ✅ User registration, login, and account management
-- ✅ Product, cart, and order functionality
-- ✅ Admin dashboard for content control
-- ✅ Responsive and accessible UI/UX
+- Frontend and backend integration
+- User registration, login, and account management
+- Product, cart, and order functionality
+- Admin dashboard for content control
+- Responsive and accessible UI/UX
 
 ---
 
-## 📚 References
+## References
 
 - [Weverse Shop](https://shop.weverse.io/)
 - [KRMerchs](https://krmerchs.com/)
